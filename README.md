@@ -1,6 +1,6 @@
 # ULCNet
 
-<p align="center">
+<p align="center" style="background-color:#2e3136">
   <img src="https://arxiv.org/html/2312.08132v1/x1.png" alt="Benchmark" width="600" style="background-color:#2e3136">
 </p>
 
